@@ -6,3 +6,6 @@ Aluno: Moisés Filipe
 Professor: Yuri Malheiros
 
 ## Notebooks
+- [Exercício sobre lista](https://github.com/MFilipe777/icd/blob/main/listas.ipynb)
+- [Exercício sobre random](https://github.com/MFilipe777/icd/blob/main/random.ipynb)
+- [Exercício sobre numpy](https://github.com/MFilipe777/icd/blob/main/numpy.ipynb)
